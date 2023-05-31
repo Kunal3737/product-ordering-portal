@@ -1,0 +1,32 @@
+.sidebar-wrapper {
+  width: 15%;
+  height: 100%;
+  border-radius: 5px;
+  padding: 25px 10px 0;
+  background-color: #fff;
+}
+
+.sidebar-logo {
+  padding: 10px;
+}
+
+.sidebar-content {
+  padding: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  color: grey;
+  text-decoration: none;
+  display: block;
+}
+
+.sidebar-content:hover {
+  background-color: #fff2f2;
+  color: #c3323b;
+  font-weight: 700;
+  text-decoration: none;
+  display: block;
+}
+
+.sidebar-logo-wrapper {
+  margin-bottom: 30px;
+}

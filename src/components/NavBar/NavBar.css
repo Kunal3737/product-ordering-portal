@@ -1,0 +1,22 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #f2f2f2;
+  padding: 10px;
+}
+
+.navbar__logo img {
+  height: 30px;
+}
+
+.navbar__search input {
+  width: 200px;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.navbar__profile img {
+  height: 30px;
+  border-radius: 50%;
+}

@@ -1,0 +1,6 @@
+.app-wrapper {
+  display: flex;
+  background-color: #eceff6;
+  height: calc(100vh - 64px);
+  padding: 18px;
+}
