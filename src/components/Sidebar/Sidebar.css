@@ -27,6 +27,14 @@
   display: block;
 }
 
+.sidebar-content.active {
+  background-color: #fff2f2;
+  color: #c3323b;
+  font-weight: 700;
+  text-decoration: none;
+  display: block;
+}
+
 .sidebar-logo-wrapper {
   margin-bottom: 30px;
 }
